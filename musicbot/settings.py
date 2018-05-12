@@ -6,13 +6,13 @@
 
 driver = None
 
-CHANNEL_ID = ''
+CHANNEL_ID = '441759512404295681'
 
 ########################
 #   DISCORD SETTINGS   #
 ########################
 
-DISCORD_TOKEN = ''
+DISCORD_TOKEN = 'NDQxNzUzMTAzNzIxODI0MjU3.Dc02Og.HBLabw9xnzJisteMY6E0C4fnKrs'
 ########################
 #   SPOTIFY SETTINGS   #
 ########################
